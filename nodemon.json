@@ -1,0 +1,8 @@
+{
+  "delay": 1000,
+  "colours": false,
+  "verbose": true,
+  "ignore": ["assets", "package.json"],
+  "watch": ["app"],
+  "ext": "js, json"
+}
